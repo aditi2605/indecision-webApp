@@ -1,0 +1,23 @@
+.widget{
+    background: #464b5e ;
+    margin-bottom: 4.2rem;
+}
+.widget-helper{
+   background:  #3c4251;
+   color: #a5afd7;
+   display: flex;
+   justify-content: space-between;
+   padding: 1.2rem;
+}
+
+.widget-helper-title{
+    margin : 0;
+}
+
+.widget-header-message {
+color : #a5afd7;
+margin: 0;
+padding: 3.2rem;
+text-align: center;
+border-bottom:  1px solid #313442;
+}
